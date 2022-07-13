@@ -1,0 +1,6 @@
+# -*- conf -*-
+
+[wrap-git]
+url = https://github.com/hjaremko/cxxcurses.git
+revision = master
+depth = 1
